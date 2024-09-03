@@ -537,7 +537,7 @@ section {
   #hero {
     background-color: var(--primary-color);
     color: white;
-    height: 110vh;
+    height: 60vh;
     background-image: url("images/hero.gif");
     background-size: cover;
     background-position: bottom;

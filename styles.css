@@ -187,7 +187,9 @@ section {
   font-size: 17px;
   border-radius: 15px;
   text-decoration: none;
-  padding: 10px 32px;
+  padding: 13px 32px;
+  box-shadow: 5px 5px var(--secondary-color-shadow),
+    inset 5px 5px var(--secondary-color-hover);
 }
 #navbar .container {
   display: flex;

@@ -535,7 +535,14 @@ section {
     display: none;
   }
   .txt {
-    padding-top: 68px;
+    margin-top: 200px;
+  }
+
+  .txt h1 {
+    padding-bottom: 19px;
+  }
+  .txt h2 {
+    padding-bottom: 25px;
   }
   #hero {
     background-color: var(--primary-color);

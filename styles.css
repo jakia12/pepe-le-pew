@@ -297,6 +297,10 @@ section {
   width: 400px;
   height: 440px;
 }
+
+.ban_img img {
+  margin-left: 76px;
+}
 /* ABOUT SECTION */
 #about {
   padding: 50px 20px;
@@ -542,6 +546,9 @@ section {
   .ban_img {
     width: 100%;
     display: none;
+  }
+  .ban_img img {
+    margin-left: 0;
   }
   .txt {
     margin-top: 200px;

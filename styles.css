@@ -534,6 +534,9 @@ section {
     width: 100%;
     display: none;
   }
+  .txt {
+    padding-top: 68px;
+  }
   #hero {
     background-color: var(--primary-color);
     color: white;
